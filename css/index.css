@@ -193,7 +193,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 .page1 .line {
-    width: 4.6rem;
+    width: 4.58rem;
     height: .02rem;
     background: rgba(255, 255, 255, .4);
     border-radius: .5rem;
@@ -438,7 +438,7 @@ html, body, .swiper-container, .swiper-slide {
 
 .pageCon ul li:first-child {
     position: absolute;
-    left: 1.9rem;
+    left: 1.8rem;
     width: .03rem;
     height: 100%;
     background: rgba(255, 255, 255, .4);
@@ -617,9 +617,9 @@ html, body, .swiper-container, .swiper-slide {
 
 .page6 > img:nth-child(7) {
     left: 50%;
-    width: 3rem;
-    height: 3rem;
-    margin: 3rem 0 0 -1.5rem;
+    width: 2.6rem;
+    height: 2.6rem;
+    margin: 3rem 0 0 -1.3rem;
 }
 
 .page6 > span:nth-child(8) {
