@@ -10,7 +10,7 @@ FastClick.attach(document.body);
 //初始化Swiper
 new Swiper(".swiper-container",{
     loop:true,
-    direction : 'vertical',
+    direction : 'vertical'
     //onSlidePrevEnd:changeEnd,
     //onSlideNextEnd:changeEnd
 
