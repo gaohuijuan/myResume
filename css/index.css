@@ -186,7 +186,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 .page1 > span:nth-child(3) {
-    margin: 6rem auto 0;
+    margin: 5rem auto 0;
     font-size: .6rem;
     color: #49cc91;
     font-weight: 600;
@@ -225,12 +225,12 @@ html, body, .swiper-container, .swiper-slide {
 
 .page1 > span:nth-child(7) {
     left: .83rem;
-    bottom: 3.7rem;
+    bottom: 2.7rem;
 }
 
 .page1 > span:nth-child(8) {
     right: .83rem;
-    bottom: 3.7rem;
+    bottom: 2.7rem;
 }
 
 .page1 > span:nth-child(9) {
