@@ -11,14 +11,14 @@ FastClick.attach(document.body);
 new Swiper(".swiper-container",{
     loop:true,
     direction : 'vertical',
-    onSlidePrevEnd:changeEnd,
-    onSlideNextEnd:changeEnd
+    //onSlidePrevEnd:changeEnd,
+    //onSlideNextEnd:changeEnd
 
 
 });
 
 //当切换结束的时候，我们需要做的事情：清除所有slide块的id，再让当前活动块拥有对应的的ID 即可，拥有对应的ID才会有对应的动画
-function changeEnd(swiper){
+/*function changeEnd(swiper){
     var n=swiper.activeIndex,
         slideAry=swiper.slides;//
 
@@ -43,7 +43,7 @@ function changeEnd(swiper){
         slide.id=null;
     });
     console.log(n);
-}
+}*/
 
 //音视频的自动播放
 var music=document.getElementById("music"),musicAudio=document.getElementById("musicAudio");
