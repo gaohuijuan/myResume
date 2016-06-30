@@ -484,12 +484,12 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page4 ul li:nth-child(4) div:nth-child(1) {
-    -webkit-animation: fadeInLeft 1s .4 both;
+    -webkit-animation: fadeInLeft 1s .4s both;
     animation: fadeInLeft 1s .4s both;
 }
 
 #page4 ul li:nth-child(5) div:nth-child(1) {
-    -webkit-animation: fadeInLeft 1s .6 both;
+    -webkit-animation: fadeInLeft 1s .6s both;
     animation: fadeInLeft 1s .6s both;
 }
 
@@ -504,12 +504,12 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page4 ul li:nth-child(4) div:nth-child(2) {
-    -webkit-animation: zoomIn 1s .4 both;
+    -webkit-animation: zoomIn 1s .4s both;
     animation: zoomIn 1s .4s both;
 }
 
 #page4 ul li:nth-child(5) div:nth-child(2) {
-    -webkit-animation: zoomIn 1s .6 both;
+    -webkit-animation: zoomIn 1s .6s both;
     animation: zoomIn 1s .6s both;
 }
 
@@ -524,12 +524,12 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page4 ul li:nth-child(4) div:nth-child(3) {
-    -webkit-animation: fadeInRight 1s .4 both;
+    -webkit-animation: fadeInRight 1s .4s both;
     animation: fadeInRight 1s .4s both;
 }
 
 #page4 ul li:nth-child(5) div:nth-child(3) {
-    -webkit-animation: fadeInRight 1s .6 both;
+    -webkit-animation: fadeInRight 1s .6s both;
     animation: fadeInRight 1s .6s both;
 }
 
@@ -563,12 +563,12 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page5 ul li:nth-child(4) div:nth-child(1) {
-    -webkit-animation: fadeInLeft 1s .4 both;
+    -webkit-animation: fadeInLeft 1s .4s both;
     animation: fadeInLeft 1s .4s both;
 }
 
 #page5 ul li:nth-child(5) div:nth-child(1) {
-    -webkit-animation: fadeInLeft 1s .6 both;
+    -webkit-animation: fadeInLeft 1s .6s both;
     animation: fadeInLeft 1s .6s both;
 }
 
@@ -583,12 +583,12 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page5 ul li:nth-child(4) div:nth-child(2) {
-    -webkit-animation: zoomIn 1s .4 both;
+    -webkit-animation: zoomIn 1s .4s both;
     animation: zoomIn 1s .4s both;
 }
 
 #page5 ul li:nth-child(5) div:nth-child(2) {
-    -webkit-animation: zoomIn 1s .6 both;
+    -webkit-animation: zoomIn 1s .6s both;
     animation: zoomIn 1s .6s both;
 }
 
@@ -603,12 +603,12 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page5 ul li:nth-child(4) div:nth-child(3) {
-    -webkit-animation: fadeInRight 1s .4 both;
+    -webkit-animation: fadeInRight 1s .4s both;
     animation: fadeInRight 1s .4s both;
 }
 
 #page5 ul li:nth-child(5) div:nth-child(3) {
-    -webkit-animation: fadeInRight 1s .6 both;
+    -webkit-animation: fadeInRight 1s .6s both;
     animation: fadeInRight 1s .6s both;
 }
 
@@ -670,22 +670,22 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page6 ul li:first-child img:first-child {
-    -webkit-animation: zoomIn 1s .6 both;
+    -webkit-animation: zoomIn 1s .6s both;
     animation: zoomIn 1s .6s both;
 }
 
 #page6 ul li:first-child span:nth-child(2) {
-    -webkit-animation: fadeInRight 1s .6 both;
+    -webkit-animation: fadeInRight 1s .6s both;
     animation: fadeInRight 1s .6s both;
 }
 
 #page6 ul li:nth-child(2) img:first-child {
-    -webkit-animation: zoomIn 1s .6 both;
+    -webkit-animation: zoomIn 1s .6s both;
     animation: zoomIn 1s .6s both;
 }
 
 #page6 ul li:nth-child(2) span:nth-child(2) {
-    -webkit-animation: fadeInRight 1s .6 both;
+    -webkit-animation: fadeInRight 1s .6s both;
     animation: fadeInRight 1s .6s both;
 }
 
