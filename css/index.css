@@ -332,6 +332,7 @@ html, body, .swiper-container, .swiper-slide {
 
 /*--page3 start--*/
 .page3 > ul, .page5 > ul{
+    position: relative;
     margin-top: 2rem;
 }
 .page3 ul li {
