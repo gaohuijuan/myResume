@@ -167,7 +167,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 .page1 > img:nth-child(1) {
-    top: 1.5rem;
+    top: 1rem;
     left: 50%;
     width: 3rem;
     height: 3rem;
@@ -176,7 +176,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 .page1 > img:nth-child(2) {
-    top: 1.9rem;
+    top: 1.4rem;
     left: 50%;
     width: 2.2rem;
     height: 2.2rem;
@@ -288,7 +288,7 @@ html, body, .swiper-container, .swiper-slide {
     /*opacity: 0;*/
 }
 
-.page2 > ul, .page3 > ul, .page4 > ul, .page5 > ul {
+.page2 > ul, .page4 > ul, .page5 > ul {
     position: relative;
     margin-top: 2.3rem;
 }
@@ -333,6 +333,9 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 /*--page3 start--*/
+.page3 > ul{
+    margin-top: 2rem;
+}
 .page3 ul li {
     margin-bottom: .2rem;
     overflow: hidden;
@@ -619,13 +622,13 @@ html, body, .swiper-container, .swiper-slide {
     left: 50%;
     width: 2.6rem;
     height: 2.6rem;
-    margin: 3rem 0 0 -1.3rem;
+    margin: 2.5rem 0 0 -1.3rem;
 }
 
 .page6 > span:nth-child(8) {
     display: inline-block;
-    margin-top: 6.5rem;
-    font-size: .4rem;
+    margin-top: 6rem;
+    font-size: .33rem;
     color: #fff;
 
 }
