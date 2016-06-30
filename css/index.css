@@ -286,7 +286,7 @@ html, body, .swiper-container, .swiper-slide {
     /*opacity: 0;*/
 }
 
-.page2 > ul, .page4 > ul, .page5 > ul {
+.page2 > ul, .page4 > ul {
     position: relative;
     margin-top: 2.3rem;
 }
@@ -331,7 +331,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 /*--page3 start--*/
-.page3 > ul{
+.page3 > ul, .page5 > ul{
     margin-top: 2rem;
 }
 .page3 ul li {
