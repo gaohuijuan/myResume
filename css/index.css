@@ -83,7 +83,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 .page > img:nth-child(1) {
-    top: 1rem;
+    top: .6rem;
     left: .6rem;
     width: 1.4rem;
     height: 1.3rem;
@@ -92,7 +92,7 @@ html, body, .swiper-container, .swiper-slide {
 .page > span:nth-child(2) {
     position: absolute;
     left: 2.3rem;
-    top: 1.15rem;
+    top: .75rem;
     font-size: .35rem;
     color: #49cc91;
 }
@@ -100,7 +100,7 @@ html, body, .swiper-container, .swiper-slide {
 .page > span:nth-child(3) {
     position: absolute;
     left: 2.3rem;
-    top: 1.75rem;
+    top: 1.35rem;
     width: 3.5rem;
     height: .02rem;
     background: rgba(73, 204, 145, .4);
@@ -109,7 +109,7 @@ html, body, .swiper-container, .swiper-slide {
 .page > span:nth-child(4) {
     position: absolute;
     left: 2.3rem;
-    top: 1.9rem;
+    top: 1.5rem;
     font-size: .1rem;
     color: #49cc91;
 }
@@ -182,7 +182,7 @@ html, body, .swiper-container, .swiper-slide {
     height: 2.2rem;
     margin: 0 0 0 -1.1rem;
     border-radius: 50%;
-    opacity: 1;
+    /*opacity: 1;*/
 }
 
 .page1 > span:nth-child(3) {
@@ -290,7 +290,7 @@ html, body, .swiper-container, .swiper-slide {
 
 .page2 > ul, .page3 > ul, .page4 > ul, .page5 > ul {
     position: relative;
-    margin-top: 3.5rem;
+    margin-top: 3rem;
 }
 
 .page2 > ul > li {
@@ -340,7 +340,6 @@ html, body, .swiper-container, .swiper-slide {
 
 .page3 ul li div {
     float: left;
-
     text-align: center;
 
 }
@@ -350,7 +349,7 @@ html, body, .swiper-container, .swiper-slide {
     height: 1.2rem;
     margin-left: .6rem;
     line-height: 1.2rem;
-    font-size: .45rem;
+    font-size: .35rem;
     color: #49cc91;
     background: url("../img/page3-text2.png") no-repeat;
     background-size: cover;
@@ -370,8 +369,8 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 #page3 ul li:nth-child(1) div:nth-child(1) {
-    -webkit-animation: fadeInLeft 1s both,move 1s infinite both;
-    animation: fadeInLeft 1s both,move 1s infinite both;
+    -webkit-animation: fadeInLeft 1s both;
+    animation: fadeInLeft 1s both;
 }
 
 #page3 ul li:nth-child(2) div:nth-child(1) {
@@ -620,19 +619,19 @@ html, body, .swiper-container, .swiper-slide {
     left: 50%;
     width: 3rem;
     height: 3rem;
-    margin: 3.5rem 0 0 -1.5rem;
+    margin: 3rem 0 0 -1.5rem;
 }
 
 .page6 > span:nth-child(8) {
     display: inline-block;
-    margin-top: 7rem;
+    margin-top: 6.5rem;
     font-size: .4rem;
     color: #fff;
 
 }
 
 .page6 ul {
-    margin-top: .8rem;
+    margin-top: .3rem;
     /*position: relative;*/
 }
 
