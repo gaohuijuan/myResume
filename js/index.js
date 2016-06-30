@@ -46,6 +46,7 @@ new Swiper(".swiper-container",{
 }*/
 
 //音视频的自动播放
+/*
 var music=document.getElementById("music"),musicAudio=document.getElementById("musicAudio");
 window.setTimeout(function(){
    musicAudio.play();
@@ -63,6 +64,7 @@ music.addEventListener("click",function(){
     musicAudio.pause();
     music.className="music";
 },false);
+*/
 
 
 
